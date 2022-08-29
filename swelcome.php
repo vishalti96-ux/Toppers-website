@@ -249,7 +249,7 @@ SUBHARTI UNIVERSITY
         </div>
         <div class="centervt ubgvt">PRACTICE SET</div>
         <div class="navvt">
-           <a href="ccc/main.html">CCC</a>  
+           <a href="ccc/main.php">CCC</a>  
         </div>
         <div class="navvt">
             <a href="M1-R5/main.html">M1-R5</a> 
