@@ -57,10 +57,23 @@
                             
                             <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
                           </ul>
-                  <!-- </li>
-                  <li class="nav-item">
-                    <a class="nav-link disabled">Disabled</a>
-                  </li> -->
+                  </li> 
+                        <li class="nav-item dropdown">
+                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Practice Set
+                          </a>
+                          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="ccc/main.php">CCC</a></li>
+                            <li><a class="dropdown-item" href="#">M1-R5</a></li>
+                            <li><a class="dropdown-item" href="#">M2-R5</a></li>
+                            <li><a class="dropdown-item" href="#">M3-R5</a></li>
+                            <li><a class="dropdown-item" href="#">M4-R5</a></li>
+                            
+                            <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
+                          </ul>
+                  </li> 
+
+                  
                 </ul>
                 <form class="d-flex">
                   <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
